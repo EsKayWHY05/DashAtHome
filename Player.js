@@ -10,7 +10,7 @@ class Player {
       this.grounded = true;
       this.wall = false;
       this.wallJumpWidth = 60;
-      this.dashing = true;
+      this.dashing = true ;
       this.canGP = true;
       this.timeInFrames = 0;
       this.timeInSec = 0;
